@@ -1,0 +1,66 @@
+body {
+    background: #262626; /* 整個網頁的背景 */
+    color: aliceblue; /* 整個網頁的文字顏色 */
+}
+
+.mt-270 {
+    margin-top: 270px;
+}
+
+.mb-75 {
+    margin-bottom: 75px;
+}
+
+.text-en {
+    color: darkgray;
+}
+
+/* 大標題 */
+.header-box h1 {
+    margin-bottom: 25px;
+    margin-top: 211px;
+    font-weight: bold;
+}
+
+/* 標題區塊中的文字 */
+.header-box p {
+    font-size: 28px;
+}
+
+/* 英文標題 */
+.header-box h2 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+/* 英文內文 */
+.header-box p.text-en {
+    font-size: 18px;
+}
+
+/* 產品區塊 */
+.pro-box .row {
+    margin-top: 140px;
+}
+
+/* 產品標題 */
+.pro-box h2 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+/* 產品英文標題 */
+.pro-box h2.heading-en {
+    font-size: 25px;
+}
+
+/* 產品內文 */
+.pro-box h3 {
+    margin-top: 50px;
+    font-size: 26px;
+}
+
+/* 產品英文內文 */
+.pro-box h4.heading-en {
+    font-size: 18px;
+}
